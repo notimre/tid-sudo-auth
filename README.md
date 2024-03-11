@@ -1,13 +1,11 @@
-# Sudo Touch ID on Mac
+# Touch ID sudo auth on Mac
 
-## This needs to be run after every software update.
-
-1. Clone the file
-2. Make the file executable
-  ```
-  chmod +x update_sudo_pam.sh
-  ```
-3. Run the file
+## How to use
+1. Clone the repository
+	```
+	git clone git@github.com:notimre/tid-sudo-auth.git
+	```
+2. Run the file
   ```
   sudo ./update_sudo_pam.sh
   ```
