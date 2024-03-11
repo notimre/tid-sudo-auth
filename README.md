@@ -10,3 +10,7 @@
     sudo ./update_sudo_pam.sh
     ```
 3. Enjoy!
+
+## Add file on system startup
+
+[Details on this issue](https://github.com/notimre/tid-sudo-auth/issues/1)
