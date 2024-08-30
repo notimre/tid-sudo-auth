@@ -13,5 +13,5 @@
 
 ## Add file on system startup
 
-[Click for details](https://github.com/notimre/tid-sudo-auth/issues/1)
+[See issue](https://github.com/notimre/tid-sudo-auth/issues/1)
 
